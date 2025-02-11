@@ -37,4 +37,5 @@ flutter run
 For web:
 
 flutter build web
+
 flutter run -d chrome
