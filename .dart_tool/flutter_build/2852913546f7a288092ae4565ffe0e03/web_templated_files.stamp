@@ -1,0 +1,1 @@
+{"inputs":["D:\\ecommerce\\web\\*\\index.html","D:\\ecommerce\\web\\flutter_bootstrap.js","C:\\dev\\flutter\\bin\\internal\\engine.version"],"outputs":["D:\\ecommerce\\build\\web\\*\\index.html","D:\\ecommerce\\build\\web\\flutter_bootstrap.js"],"buildKey":"[{\"compileTarget\":\"dart2js\",\"renderer\":\"canvaskit\",\"mainJsPath\":\"main.dart.js\"}]"}
